@@ -1,4 +1,4 @@
-<img src="img/image.png'"><h1 align="center">Buenas 👋, soy Agustin Ribotta</h1>
+<img src="https://github.com/AgustinRibotta/AgustinRibotta/tree/main/img)image.png'"><h1 align="center">Buenas 👋, soy Agustin Ribotta</h1>
 <h3 align="center">Estudiante de Desarrolo Web BackEnd y programador entusiasta.</h3>
 
 - 🔭 Mis estudios [https://verify.openedg.org/?id=Fxmn.Xf70.k8OW](https://verify.openedg.org/?id=Fxmn.Xf70.k8OW)
@@ -13,7 +13,7 @@
 
 - 📄 Experiencia laboral [https://www.linkedin.com/in/agustin-ribotta-04043820b/](https://www.linkedin.com/in/agustin-ribotta-04043820b/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/agustin ribotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin ribotta" height="30" width="40" /></a>
 </p>
