@@ -1,7 +1,7 @@
 
 <img align="left"  src= "img/image.png" alt="Fotop">
 <h1 align="left" >Buenas 👋, soy Agustin Ribotta</h1>
-<h3 align="left" >Estudiante de Desarrolo Web enfocado a BackEnd</h3>
+<h3 align="left" >Estudiante de Desarroyo Web enfocado a BackEnd</h3>
  
 <p> - 🔭 Mis estudio <a href="https://www.credly.com/badges/4fe0e60f-9d01-42d3-8bce-4face80f0fd5/linked_in?t=rodvjm">Python</a></p>
 <p> - 🌱 Actualmente estoy aprendiendo <a href="https://www.udemy.com/share/102u223@tpllnr0ZkLqS7TVcixTFzbxUuw8ED6JfckU4cACgWrxoiQwOGjVm-0KSSsOcFlik5Q==/">Django y Dejnago Rest</a></p>
