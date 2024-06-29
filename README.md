@@ -21,5 +21,5 @@ Trasladar mis conexiones de Back End con Python a JS  y complementar con HTML y 
 # 🌐 Socials:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agustin-ribotta/)
-### [:page_with_curl: Curriculum ](https://agustinribotta.github.io/curriculumOnline/) 
+
 
