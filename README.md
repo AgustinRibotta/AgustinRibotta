@@ -16,7 +16,7 @@ Tras un año y medio en el mundo de Back End con Python, actualmente me encuentr
 
 Trasladar mis conexiones de Back End con Python a JS  y complementar con HTML y CSS para poder de esa manera lograr un buen stack de desarrollo web. La intención es lograr el stack MERN.
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,mongo,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,postgres,nodejs)](https://skillicons.dev)
 
 # 🌐 Socials:
 
