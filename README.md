@@ -1,25 +1,24 @@
-# :sweat_smile: Sobre Mi :
- Soy Agustin Ribotta, un apasionado programador que reside en Italia. Con 26 años de edad , he encontrado en el desarrollo web  mi verdadera vocación.
+# 👋 Sobre Mí
+Soy Agustin Ribotta, un desarrollador web con base en Italia, especializado en la creación de APIs Full REST. Con 26 años, me dedico a construir soluciones Back End robustas y eficientes utilizando Python y Django.
 
- # 💻 Stack y Herramientas:
+# 💻 Habilidades Principales
+### Desarrollo Back End y APIs Full REST
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,aws)](https://skillicons.dev)  
+Conocimientos en Python y Django, diseñando APIs Full REST escalables y eficientes, con PostgreSQL para la gestión de datos y AWS para el despliegue.
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,aws)](https://skillicons.dev)
+### Herramientas y Entorno
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,postman,markdown)](https://skillicons.dev)  
+Hábil en el uso de Git, GitHub, y Visual Studio Code. Utilizo Postman para pruebas, test unitarios y Markdown para la documentación de APIs.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode)](https://skillicons.dev)
+# 🚀 Conocimientos Complementarios
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery)](https://skillicons.dev)  
+Aunque mi enfoque principal es el Back End, tengo conocimientos básicos en HTML, CSS, Bootstrap, JavaScript, React, y jQuery. Este conocimiento me ayuda a integrar y comprender mejor los proyectos Full Stack.
 
-# 🔧 Explorando :
-Tras un año y medio en el mundo de Back End con Python, actualmente me encuentro explorando :
+# 🎯 Objetivos Profesionales
+Mi objetivo es perfeccionar mi experiencia en Python y Django para desarrollar APIs Full REST, combinando esto con un entendimiento sólido del Front End para crear soluciones web completas y eficientes.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,express)](https://skillicons.dev)
+# 🌐 Conectemos
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡Conéctate conmigo en LinkedIn!
 
-# :grin: Intenciones:
-
-Trasladar mis conexiones de Back End con Python a JS  y complementar con HTML y CSS para poder de esa manera lograr un buen stack de desarrollo web.
-
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,nodejs,express,postgres)](https://skillicons.dev)
-
-# 🌐 Socials:
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agustin-ribotta/)
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agustin-ribotta/)
 
