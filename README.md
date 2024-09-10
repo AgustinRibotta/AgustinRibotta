@@ -14,9 +14,6 @@ Hábil en el uso de Git, GitHub, y Visual Studio Code. Utilizo Postman para prue
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery)](https://skillicons.dev)  
 Aunque mi enfoque principal es el Back End, tengo conocimientos básicos en HTML, CSS, Bootstrap, JavaScript, React, y jQuery. Este conocimiento me ayuda a integrar y comprender mejor los proyectos Full Stack.
 
-# 🎯 Objetivos Profesionales
-Mi objetivo es perfeccionar mi experiencia en Python y Django para desarrollar APIs Full REST, combinando esto con un entendimiento sólido del Front End para crear soluciones web completas y eficientes.
-
 # 🌐 Conectemos
 Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡Conéctate conmigo en LinkedIn!
 
