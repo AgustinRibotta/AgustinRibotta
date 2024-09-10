@@ -1,5 +1,5 @@
 # 👋 Sobre Mí
-Soy Agustin Ribotta, un desarrollador web con base en Italia, especializado en la creación de APIs Full REST. Con 26 años, me dedico a construir soluciones Back End robustas y eficientes utilizando Python y Django.
+Soy Agustin Ribotta, un desarrollador Backend con base en Italia, especializado en la creación de APIs Full REST. Con 26 años, me dedico a construir soluciones Back End robustas y eficientes utilizando Python y Django.
 
 # 💻 Habilidades Principales
 ### Desarrollo Back End y APIs Full REST
