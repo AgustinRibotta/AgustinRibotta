@@ -6,9 +6,6 @@
 ### Herramientas y Entorno
 [![My Skills](https://skillicons.dev/icons?i=arch,git,github,vscode,postman,markdown,bash,idea)](https://skillicons.dev)  
 
-# 🚀 Conocimientos Complementarios
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery)](https://skillicons.dev)  
-
 # 🌐 Para saber más sobre mí
 
 <div style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 32px;">
