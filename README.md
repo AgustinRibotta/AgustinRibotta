@@ -1,7 +1,7 @@
 # 💻 Habilidades Principales
 
 ### Desarrollo Back End 
-[![My Skills](https://skillicons.dev/icons?i=py,django,java,spring,postgres,mysql,aws,kubernetes,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=py,django,java,spring,postgres,mysql,githubactions,docker,aws,kubernetes)](https://skillicons.dev)  
 
 ### Herramientas y Entorno
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,idea,postman,markdown,bash)](https://skillicons.dev)  
