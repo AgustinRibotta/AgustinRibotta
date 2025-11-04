@@ -73,7 +73,7 @@ Back End Developer with experience in Python, Java, and cloud architectures. Pas
         <span>LinkedIn</span>
     </a>
 
-<a href="https://www.agustinribotta.dev/" style="text-decoration: none; color: black; display: flex; flex-direction: column; align-items: center;">
+<a href="https://agustinribottar.wixsite.com/agusitn-ribotta" style="text-decoration: none; color: black; display: flex; flex-direction: column; align-items: center;">
         <img src="https://img.icons8.com/material-outlined/32/000000/internet--v1.png" alt="Personal website icon, link to Agustin Ribotta's portfolio" style="width: 32px; height: 32px; margin-bottom: 4px;" />
         <span>Portfolio</span>
     </a>
