@@ -1,80 +1,62 @@
 # 👨‍💻 Agustin Ribotta
 
-Back End Developer with experience in Python, Java, and cloud architectures. Passionate about efficiency, scalability, and best practices in software development.
+Backend Developer specialized in **Python, Java and cloud-based architectures**.  
+Focused on building scalable systems, clean code practices and efficient backend solutions.
 
----
+## 🚀 Tech Stack
 
-## 💻 Core Skills
+### 🧠 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: flex-start; max-width: 1000px;">
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-  <div style="flex: 1 1 150px; min-width: 150px;">
-    <h4>Languages & Frameworks</h4>
-    <div style="display: flex; flex-direction: column; gap: 12px; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48" />
-    </div>
-  </div>
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+</p>
 
-  <div style="flex: 1 1 120px; min-width: 120px;">
-    <h4>Databases</h4>
-    <div style="display: flex; flex-direction: column; gap: 12px; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
-    </div>
-  </div>
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=markdown" />
+</p>
 
-  <div style="flex: 1 1 120px; min-width: 120px;">
-    <h4>CI/CD</h4>
-    <div style="display: flex; flex-direction: column; gap: 12px; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" />
-    </div>
-  </div>
+## 🌐 Connect with me
 
-  <div style="flex: 1 1 140px; min-width: 140px;">
-    <h4>Containers & Orchestration</h4>
-    <div style="display: flex; flex-direction: column; gap: 12px; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" />
-    </div>
-  </div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/agustin-ribotta/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-  <div style="flex: 1 1 100px; min-width: 100px;">
-    <h4>Cloud</h4>
-    <div style="display: flex; flex-direction: column; gap: 12px; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
-    </div>
-  </div>
+## 📊 GitHub Stats
 
-  <div style="flex: 1 1 180px; min-width: 180px;">
-    <h4>Tools & Utilities</h4>
-    <div style="display: flex; flex-direction: column; gap: 12px; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
-    </div>
-  </div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinRibotta&theme=tokyonight" />
+</p>
 
-</div>
+## ✨ Summary
 
-## 🌐 Learn More About Me
-
-<div style="display: flex; gap: 40px; align-items: center; justify-content: start;">
-    <a href="https://www.linkedin.com/in/agustin-ribotta/" style="text-decoration: none; color: black; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon, link to Agustin Ribotta's profile" style="width: 32px; height: 32px; margin-bottom: 4px;" />
-        <span>LinkedIn</span>
-    </a>
-
-<a href="https://agustinribottar.wixsite.com/agusitn-ribotta" style="text-decoration: none; color: black; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/material-outlined/32/000000/internet--v1.png" alt="Personal website icon, link to Agustin Ribotta's portfolio" style="width: 32px; height: 32px; margin-bottom: 4px;" />
-        <span>Portfolio</span>
-    </a>
-</div>
+- Backend development focused on scalable architectures  
+- Experience with APIs, microservices and cloud environments  
+- Passion for clean code and performance optimization  
+- Continuous learning mindset
