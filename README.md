@@ -1,17 +1,18 @@
 # 👨‍💻 Agustin Ribotta
+Backend Developer specialized in **Java, Spring Boot and cloud-native architectures**.  
+Focused on building scalable REST APIs, microservices and efficient backend solutions.
 
-Backend Developer specialized in **Python, Java and cloud-based architectures**.  
-Focused on building scalable systems, clean code practices and efficient backend solutions.
+---
 
 ## 🚀 Tech Stack
 
 ### 🧠 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py" />
-  <img src="https://skillicons.dev/icons?i=django" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=django" />
 </p>
 
 ### 🗄️ Databases
@@ -25,6 +26,7 @@ Focused on building scalable systems, clean code practices and efficient backend
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=kafka" />
   <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
@@ -32,13 +34,40 @@ Focused on building scalable systems, clean code practices and efficient backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=markdown" />
 </p>
+
+---
+
+## 📚 Certifications
+
+- 🎓 **Master Microservices with Spring Boot and Spring Cloud** – 2025
+- 🎓 **Back-End Developer** – Meta – 2025
+- 🎓 **Cloud-Native Development with OpenShift and Kubernetes** – 2025
+- 🎓 **DevOps, Cloud, and Agile Foundations Specialization** – IBM – 2024
+
+---
+
+## ✨ Summary
+
+- Specialized in **Java & Spring Boot** — REST APIs, JWT, Spring Security, Spring Cloud
+- Experience with **microservices architecture** — Eureka, API Gateway, service separation
+- Working knowledge of **event-driven systems** with Kafka
+- Comfortable with **cloud-native environments** — Docker, Kubernetes, OpenShift
+- Clean code advocate with a continuous learning mindset
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinRibotta&theme=tokyonight" />
+</p>
+
+---
 
 ## 🌐 Connect with me
 
@@ -47,16 +76,3 @@ Focused on building scalable systems, clean code practices and efficient backend
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinRibotta&theme=tokyonight" />
-</p>
-
-## ✨ Summary
-
-- Backend development focused on scalable architectures  
-- Experience with APIs, microservices and cloud environments  
-- Passion for clean code and performance optimization  
-- Continuous learning mindset
